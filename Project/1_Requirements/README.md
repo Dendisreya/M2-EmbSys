@@ -65,8 +65,8 @@ User will be able to identify the typeof battery, current output, voltage output
 | *ID*   | *Description*                                                                    | *Category* |*Status* |
 |--------|----------------------------------------------------------------------------------|------------|-----------|
 |  HLR01   |User will be able to measure distance between people or objects	                 |  Technical| TBD|
-|  HLR02   |User will be able to calculate distance between people or objects                 |  Technical| TBD|
-|  HLR03   |User will be able to calculate distance less than 2m	                             |  Technical | TBD| 
+|  HLR02   |User will be able to calculate distance between people or objects                |  Technical| TBD|
+|  HLR03   |User will be able to calculate distance less than 2m	                            |  Technical | TBD| 
 |  HLR04   |User will be able to find buzzer sound when distance less than 2m                 |  Technical| TBD|
 |  HLR05   |User will be able to find Shows alert distance on OLED when distance less than 2m | Technical|TBD|
 |  HLR06   |User will be able to find Turns on the LED when distance less than 2m	         |  Technical| TBD|
@@ -77,13 +77,13 @@ User will be able to identify the typeof battery, current output, voltage output
 
 | *ID*   | *Description*                                                                    | *Category* |*Status* |
 |--------|----------------------------------------------------------------------------------|------------|-----------|
-|  LLR01   |User will be able to measure distance between people or objects	                  | HLR01|TBD|
-|  LLR02   |User will be able to calculate distance between people or objects                 | HLR02|TBD|
-|  LLR03   |User will be able to calculate distance less than 2m	                          | HLR03|TBD| 
-|  LLR04   |User will be able to find buzzer sound when distance less than 2m                 | HLR04|TBD|
-|  LLR05   |User will be able to find Shows alert distance on OLED when distance less than 2m | HLR05|TBD|
-|  LLR06   |User will be able to find Turns on the LED when distance less than 2m	          | HLR6 |TBD|
-|  LLR07   |User will be able to identify the typeof battery                                  | HLR07|TBD|
+|  LLR01   |Measured distance will be displayed                                              | HLR01|TBD|
+|  LLR02   |Calculated distance will be displayed                | HLR02|TBD|
+|  LLR03   |Calculated distance less than 2m will be displayed	                          | HLR03|TBD| 
+|  LLR04   |Buzzer sound when distance less than 2m  will be analysed             | HLR04|TBD|
+|  LLR05   |Alert distance on OLED when distance less than 2m will be analysed | HLR05|TBD|
+|  LLR06   | Turns on the LED when distance less than 2m will be analysed	          | HLR6 |TBD|
+|  LLR07   | identifying the typeof battery                                  | HLR07|TBD|
 
 
 
