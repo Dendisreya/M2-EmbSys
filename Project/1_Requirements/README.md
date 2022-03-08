@@ -52,6 +52,37 @@ Because we use three different sensors, our project has a better chance of worki
 * When an object or a person is placed in front of the ultrasonic sensor, it sends out sound waves to strike the object or person. When these waves hit an object or a person, they bounce and reflect back until they reach the ultrasonic sensor. This sensor now calculates the distance between the object and the sensor and displays it on the OLED display. It also makes a sound with the buzzer and displays a red light with the LED.
 
 
+Measure distance 
+ Calculate distance
+Distance less than 2m
+Buzzer starts to sound
+Shows alert distance on OLED
+Turns on the LED
+
+# High Level Requirements
+
+
+
+| * ID*   | *Description*                                                   | *Category* |*Status* |  
+|  H_01   |User will be able to measure distance between people or objects	|  Technical| TBD|
+|  H_02   |User will be able to calculate distance between people or objects|  Technical| TBD|
+|  H_03  |User will be able to calculate distance less than 2m	            |Technical | TBD| 
+|  H_04 |User will be able to find buzzer sound when distance less than 2m	|  Technical| TBD|
+|  H_05 |User will be able to find Shows alert distance on OLED when distance less than 2m	| TechnicalTBD|
+|  H_04 |User will be able to find Turns on the LED when distance less than 2m	|  Technical| TBD|
+
+
+
+## Table no: Low level test plan
+
+| *Test ID* | *HLT ID* |*Description*                                              | *Exp IN* | *Exp OUT* | *Actual Out* |*Type Of Test*  |    
+|-------------|------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  L_01       | H_01, H_02, H_03|Tested on functions which accept two matrices as input|  matrix1, matrix2, n |SUCCESS|SUCCESS |Technical |
+|  L_02       | H_04, H_05, H_06|Tested on functions which accept single matrix as input|  matrix1, n |SUCCESS|SUCCESS |Technical |
+|  L_03       | H_07, H_08 |Tested on function which returns an integer value|  3  |-1|-1|Technical |
+
+
+
 
 
 
