@@ -1,4 +1,4 @@
-##Introduction
+# Introduction
 
 * This project is designed to provide a suitable device that assists people in maintaining social distance.
 * It is intended to measure the distance between any object or person using an ultrasonic transducer and an Arduino UNO.
