@@ -63,7 +63,7 @@ Turns on the LED
 
 
 
-| *ID*   | *Description*                                                   | *Category* |*Status* |-------------|------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+| *ID*   | *Description*                                                   | *Category* |*Status* ||-------------|------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
   
 |  H_01   |User will be able to measure distance between people or objects	|  Technical| TBD|
 |  H_02   |User will be able to calculate distance between people or objects|  Technical| TBD|
@@ -76,7 +76,7 @@ Turns on the LED
 
 ## Table no: Low level test plan
 
-| *ID* | *Description*                                              | *Category* | *Status* |    
+| *Test ID* | *HLT ID* |*Description*                                              | *Exp IN* | *Exp OUT* | *Actual Out* |*Type Of Test*  |    
 |-------------|------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       | H_01, H_02, H_03|Tested on functions which accept two matrices as input|  matrix1, matrix2, n |SUCCESS|SUCCESS |Technical |
 |  L_02       | H_04, H_05, H_06|Tested on functions which accept single matrix as input|  matrix1, n |SUCCESS|SUCCESS |Technical |
