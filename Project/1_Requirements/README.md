@@ -36,7 +36,25 @@ Because we use three different sensors, our project has a better chance of worki
 * To transform the non-functional prototype into a working product.
 ## Threats
 * Wire usage can be reduced.
-* Can be done as a single functional component.
+* Can be done as a single functional component
+*   Connecting three peripheral devices.
+
+# 4W's and 1'H
+## Who
+* Anyone
+## What
+* To provide a suitable device that assists people in maintaining social distance
+## When
+* This project has no end date because it can be used by generations for a long time until the product is functional.
+## Where
+* Shopping malls, Schools and colleges
+## How
+* When an object or a person is placed in front of the ultrasonic sensor, it sends out sound waves to strike the object or person. When these waves hit an object or a person, they bounce and reflect back until they reach the ultrasonic sensor. This sensor now calculates the distance between the object and the sensor and displays it on the OLED display. It also makes a sound with the buzzer and displays a red light with the LED.
+
+
+
+
+
 
 
 
