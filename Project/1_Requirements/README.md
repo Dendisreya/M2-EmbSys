@@ -49,16 +49,7 @@ Because we use three different sensors, our project has a better chance of worki
 ## Where
 * Shopping malls, Schools and colleges
 ## How
-* When an object or a person is placed in front of the ultrasonic sensor, it sends out sound waves to strike the object or person. When these waves hit an object or a person, they bounce and reflect back until they reach the ultrasonic sensor. This sensor now calculates the distance between the object and the sensor and displays it on the OLED display. It also makes a sound with the buzzer and displays a red light with the LED.
-
-
-Measure distance 
- Calculate distance
-Distance less than 2m
-Buzzer starts to sound
-Shows alert distance on OLED
-Turns on the LED
-User will be able to identify the typeof battery, current output, voltage output, power rating of the battery based on the input	
+* When an object or a person is placed in front of the ultrasonic sensor, it sends out sound waves to strike the object or person. When these waves hit an object or a person, they bounce and reflect back until they reach the ultrasonic sensor. This sensor now calculates the distance between the object and the sensor and displays it on the OLED display. It also makes a sound with the buzzer and displays a red light with the LED	
 
 # High Level Requirements
 
