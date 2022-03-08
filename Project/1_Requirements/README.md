@@ -58,29 +58,33 @@ Distance less than 2m
 Buzzer starts to sound
 Shows alert distance on OLED
 Turns on the LED
+User will be able to identify the typeof battery, current output, voltage output, power rating of the battery based on the input	
 
 # High Level Requirements
 
+| *ID*   | *Description*                                                                    | *Category* |*Status* |
+|--------|----------------------------------------------------------------------------------|------------|-----------|
+|  HLR01   |User will be able to measure distance between people or objects	                 |  Technical| TBD|
+|  HLR02   |User will be able to calculate distance between people or objects                 |  Technical| TBD|
+|  HLR03   |User will be able to calculate distance less than 2m	                             |  Technical | TBD| 
+|  HLR04   |User will be able to find buzzer sound when distance less than 2m                 |  Technical| TBD|
+|  HLR05   |User will be able to find Shows alert distance on OLED when distance less than 2m | Technical|TBD|
+|  HLR06   |User will be able to find Turns on the LED when distance less than 2m	         |  Technical| TBD|
+|  HLR07   |User will be able to identify the typeof battery                                  |Informative| TBD|
 
+
+# Low Level Requirements
 
 | *ID*   | *Description*                                                                    | *Category* |*Status* |
 |--------|----------------------------------------------------------------------------------|------------|-----------|
-|  H_01   |User will be able to measure distance between people or objects	                 |  Technical| TBD|
-|  H_02   |User will be able to calculate distance between people or objects                 |  Technical| TBD|
-|  H_03   |User will be able to calculate distance less than 2m	                             |  Technical | TBD| 
-|  H_04   |User will be able to find buzzer sound when distance less than 2m                 |  Technical| TBD|
-|  H_05   |User will be able to find Shows alert distance on OLED when distance less than 2m | Technical|TBD|
-|  H_06   |User will be able to find Turns on the LED when distance less than 2m	         |  Technical| TBD|
+|  LLR01   |User will be able to measure distance between people or objects	                  | HLR01|TBD|
+|  LLR02   |User will be able to calculate distance between people or objects                 | HLR02|TBD|
+|  LLR03   |User will be able to calculate distance less than 2m	                          | HLR03|TBD| 
+|  LLR04   |User will be able to find buzzer sound when distance less than 2m                 | HLR04|TBD|
+|  LLR05   |User will be able to find Shows alert distance on OLED when distance less than 2m | HLR05|TBD|
+|  LLR06   |User will be able to find Turns on the LED when distance less than 2m	          | HLR6 |TBD|
+|  LLR07   |User will be able to identify the typeof battery                                  | HLR07|TBD|
 
-
-
-## Table no: Low level test plan
-
-| *Test ID* | *HLT ID* |*Description*                                              | *Exp IN* | *Exp OUT* | *Actual Out* |*Type Of Test*  |    
-|-------------|------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       | H_01, H_02, H_03|Tested on functions which accept two matrices as input|  matrix1, matrix2, n |SUCCESS|SUCCESS |Technical |
-|  L_02       | H_04, H_05, H_06|Tested on functions which accept single matrix as input|  matrix1, n |SUCCESS|SUCCESS |Technical |
-|  L_03       | H_07, H_08 |Tested on function which returns an integer value|  3  |-1|-1|Technical |
 
 
 
