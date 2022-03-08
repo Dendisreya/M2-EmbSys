@@ -63,7 +63,8 @@ Turns on the LED
 
 
 
-| * ID*   | *Description*                                                   | *Category* |*Status* |  
+| *ID*   | *Description*                                                   | *Category* |*Status* ||-------------|------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+  
 |  H_01   |User will be able to measure distance between people or objects	|  Technical| TBD|
 |  H_02   |User will be able to calculate distance between people or objects|  Technical| TBD|
 |  H_03  |User will be able to calculate distance less than 2m	            |Technical | TBD| 
