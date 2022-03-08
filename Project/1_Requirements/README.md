@@ -77,13 +77,20 @@ User will be able to identify the typeof battery, current output, voltage output
 
 | *ID*   | *Description*                                                                    | *Category* |*Status* |
 |--------|----------------------------------------------------------------------------------|------------|-----------|
-|  LLR01   |Measured distance will be displayed                                              | HLR01|TBD|
-|  LLR02   |Calculated distance will be displayed                | HLR02|TBD|
-|  LLR03   |Calculated distance less than 2m will be displayed	                          | HLR03|TBD| 
-|  LLR04   |Buzzer sound when distance less than 2m  will be analysed             | HLR04|TBD|
-|  LLR05   |Alert distance on OLED when distance less than 2m will be analysed | HLR05|TBD|
-|  LLR06   | Turns on the LED when distance less than 2m will be analysed	          | HLR6 |TBD|
-|  LLR07   | identifying the typeof battery                                  | HLR07|TBD|
+|  LLR01   |Measured distance will be displayed                                              
+| HLR01|TBD|
+|  LLR02   |Calculated distance will be displayed                
+| HLR02|TBD|
+|  LLR03   |Calculated distance less than 2m will be displayed	                         
+ | HLR03|TBD| 
+|  LLR04   |Buzzer sound when distance less than 2m  will be analysed            
+ | HLR04|TBD|
+|  LLR05   |Alert distance on OLED when distance less than 2m will be analysed 
+| HLR05|TBD|
+|  LLR06   | Turns on the LED when distance less than 2m will be analysed	         
+ | HLR6 |TBD|
+|  LLR07   | identifying the typeof battery                                  
+| HLR07|TBD|
 
 
 
