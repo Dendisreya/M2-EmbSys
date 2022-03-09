@@ -93,6 +93,17 @@ BREADBOARD: A breadboard is a construction base for prototyping of electronics. 
 ## 6 RESISTOR: 
 A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements and terminate transmission lines among other uses.
 
+# Applications
+* Social distancing measurer used in various fields like:
+1. Shopping malls
+2. Airports
+3. Construction sites
+4. Government offices
+5. Railways
+6. Schools and colleges
+7. Crowded places
+
+
 
 
 
