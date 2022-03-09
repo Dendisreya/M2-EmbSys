@@ -102,7 +102,9 @@ A resistor is a passive two-terminal electrical component that implements electr
 5. Railways
 6. Schools and colleges
 7. Crowded places
-
+ 
+# Conclusion
+This project is a great way to deal with the current circumstances while keeping social distance. Because this project displays the output using three separate sensors, there are more chances for our project to be successful.
 
 
 
